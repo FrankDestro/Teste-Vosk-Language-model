@@ -1,0 +1,39 @@
+Python 3.7 ou superior
+Biblioteca SpeechRecognition (https://pypi.org/project/SpeechRecognition/)
+
+CMU Sphinx (works offline)
+
+Google Speech Recognition
+
+Google Cloud Speech API
+
+Wit.ai
+
+Microsoft Azure Speech
+
+Microsoft Bing Voice Recognition (Deprecated)
+
+Houndify API
+
+IBM Speech to Text
+
+Snowboy Hotword Detection (works offline)
+
+Tensorflow
+
+Vosk API (works offline)
+
+OpenAI whisper (works offline)
+
+Whisper API
+
+Modelo de linguagem em português (ex: Kaldi, HTK)
+Ferramentas de instalação de pacotes (ex: pip)
+
+Padrão audio
+Codificador: PCM S16 LE (s16l)
+Canais: Monaural
+Taxa de amostragem: 8000 Hz
+Bits por amostra: 16
+
+
