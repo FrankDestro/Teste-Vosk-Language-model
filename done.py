@@ -15,7 +15,7 @@ except Exception as e:
     raise
 
 # Caminho para o arquivo de áudio
-audio_file = r"C:\Users\franklyn.damaceno\Desktop\SpeechRecognizer\Volsk\audio_teste\call4.wav"  # Use barras invertidas ou duplas para evitar problemas de escape
+audio_file = r"C:\Users\franklyn.damaceno\Desktop\SpeechRecognizer\Volsk\audio_teste\call4.wav"  
 
 # Criando um reconhecedor de fala
 recognizer = sr.Recognizer()
@@ -71,4 +71,3 @@ try:
 except Exception as e:
     # Tratamento de erros durante o reconhecimento de fala
     print(f"Erro durante o reconhecimento de fala: {e}")
-
